@@ -131,7 +131,7 @@ Fonctionnalités envisagées :
 
 ## Contexte du projet
 
-Ce projet a été développé dans le cadre de l'initiative **Sove For Tomorrow (SFT) 2026**, visant à promouvoir l'activité physique et la création de liens sociaux à travers le sport.
+Ce projet a été développé dans le cadre de l'initiative **Solve For Tomorrow (SFT) 2026**, visant à promouvoir l'activité physique et la création de liens sociaux à travers le sport.
 
 ## Licence
 
